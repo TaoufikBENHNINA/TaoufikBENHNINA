@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Taoufik
 I live in Tetouan, Morocco.
 
+
+
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taoufik-benhnina/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:taoufikbenhnina2001@gmail.com)
@@ -45,6 +47,8 @@ I live in Tetouan, Morocco.
 ## 🌱 I'm currently learning...
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 
+## Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=TaoufikBENHNINA&color=red)
 
 ## GitHub Stats:
 ![Taoufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaoufikBENHNINA&show_icons=true&theme=dark)
