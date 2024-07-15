@@ -47,8 +47,8 @@ I live in Tetouan, Morocco.
 
 
 ## GitHub Stats:
-![Taoufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Taoufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaoufikBENHNINA&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaoufikBENHNINA&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaoufikBENHNINA&layout=compact&theme=dark)
