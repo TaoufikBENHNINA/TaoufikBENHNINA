@@ -46,10 +46,3 @@ I live in Tetouan, Morocco.
 
 ## 🌱 I'm currently learning...
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-
-## GitHub Stats:
-![Taoufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaoufikBENHNINA&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaoufikBENHNINA&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaoufikBENHNINA&layout=compact&theme=dark)
